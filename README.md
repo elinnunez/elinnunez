@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elinnoel Nunez
+- 👋 Hi, I’m Elinnoel Nuñez
 - 👀 I’m interested in CyberSecurity and Web Dev
 - 🌱 I’m currently a student at the University of Houston majoring in Computer Science
 - 💞️ I’m looking to collaborate with others who share the same interests.
