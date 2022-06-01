@@ -3,6 +3,9 @@
 - 📫 Connect with me on Linkedin: https://www.linkedin.com/in/elinnunez
 
 ```C++
+#include <iostream>
+#include <string>
+
 class SoftwareEngineer{
     private:
       std::string name, role, major;
