@@ -13,7 +13,7 @@ class SoftwareEngineer{
       std::string interests[2] = {"cybersecurity", "web dev"};
     public:
       SoftwareEngineer() {
-        this->name = "Elinnoel Nunez";
+        this->name = "Elinnoel Nuñez";
         this->role = "Undergraduate Student at The University of Houston";
         this->major = "Computer Science";
       }
