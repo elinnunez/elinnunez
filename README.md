@@ -10,7 +10,7 @@ class SoftwareEngineer{
     private:
       std::string name, role, major;
       std::string languageSpoken[2] = {"en_US", "es_ES"};
-      std::string interests[2] = {"cybersecurity", "web dev"};
+      std::string interests[2] = {"cybersecurity", "fullstack", "algorithms"};
     public:
       SoftwareEngineer() {
         this->name = "Elinnoel Nuñez";
