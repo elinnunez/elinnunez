@@ -6,7 +6,7 @@
 #include <iostream>
 #include <string>
 
-class SoftwareEngineer{
+class SoftwareEngineer {
     private:
       std::string name, role, major;
       std::string languageSpoken[2] = {"en_US", "es_ES"};
