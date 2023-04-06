@@ -9,7 +9,7 @@
 class SoftwareEngineer {
     private:
       std::string name, role, major;
-      std::string languageSpoken[3] = {"en_US", "es_ES", "en_PT"};
+      std::string languageSpoken[3] = {"en_US", "es_ES", "pt_BR"};
       std::string interests[3] = {"cybersecurity", "fullstack", "algorithms"};
     public:
       SoftwareEngineer() {
