@@ -8,7 +8,7 @@
 
 class SoftwareEngineer {
     private:
-      std::string name, role, major;
+      std::string name, role, major, minor;
       std::string languageSpoken[3] = {"en_US", "es_ES", "pt_BR"};
       std::string interests[3] = {"cybersecurity", "fullstack", "algorithms"};
     public:
@@ -16,6 +16,7 @@ class SoftwareEngineer {
         this->name = "Elinnoel Nuñez";
         this->role = "Undergraduate student at the University of Houston";
         this->major = "Computer Science";
+        this->minor = "Mathematics";
       }
         
       void greetings() {
