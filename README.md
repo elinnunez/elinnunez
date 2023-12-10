@@ -1,38 +1,15 @@
 ## Hello, I'm Elinnoel Nuñez 👋
 
 - 📫 Connect with me on Linkedin: https://www.linkedin.com/in/elinnunez
+- 📚 Undergraduate at the University of Houston
+- 💻 Computer Science major
+- 🧮 Mathematics minor
 
-```C++
-#include <iostream>
-#include <string>
-
-class SoftwareEngineer {
-    private:
-      std::string name, role, major, minor;
-      std::string languageSpoken[3] = {"en_US", "es_ES", "pt_BR"};
-      std::string interests[3] = {"cybersecurity", "fullstack", "algorithms"};
-    public:
-      SoftwareEngineer() {
-        this->name = "Elinnoel Nuñez";
-        this->role = "Undergraduate student at the University of Houston";
-        this->major = "Computer Science";
-        this->minor = "Mathematics";
-      }
-        
-      void greetings() {
-        std::cout << "Thanks for dropping by, hope you find some of my work interesting." << std::endl;
-      }
-};
-
-int main() {
-
-  class SoftwareEngineer* me = new SoftwareEngineer();
-
-  me->greetings();
-
-  return 0; 
-}
-```
+### Work Experience 👨‍💻
+- ![Amazon Robotics](https://img.shields.io/badge/-Amazon_Robotics-000?style=for-the-badge&logo=amazon&logoColor=F90) Aug. 2023 - Dec. 2023 
+- ![Microsoft](https://img.shields.io/badge/-Microsoft-000?style=for-the-badge&logo=microsoft&logoColor=5E5E5E) May 2023 - Aug. 2023
+- ![ATPCO](https://img.shields.io/badge/-ATPCO-48d1cc?style=for-the-badge&logoColor=48d1cc) Sep. 2022 - May 2022 
+- ![JPMC](https://img.shields.io/badge/-JPMC-000?style=for-the-badge&logo=chase&logoColor=117ACA) Jun. 2022 - Aug. 2022 
 
 ### Languages
 
@@ -52,6 +29,5 @@ int main() {
 <!-- ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) -->
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 <!-- ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring) -->
-<!-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) -->
 
 <a href="https://elinnunez.github.io/Personal-Website/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=elinnunez&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinnunez&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
