@@ -6,10 +6,10 @@
 - 🧮 Mathematics minor
 
 ### Work Experience 👨‍💻
-- ![Amazon Robotics](https://img.shields.io/badge/-Amazon_Robotics-000?style=for-the-badge&logo=amazon&logoColor=F90) Aug. 2023 - Dec. 2023 
-- ![Microsoft](https://img.shields.io/badge/-Microsoft-000?style=for-the-badge&logo=microsoft&logoColor=5E5E5E) May 2023 - Aug. 2023
-- ![ATPCO](https://img.shields.io/badge/-ATPCO-48d1cc?style=for-the-badge&logoColor=48d1cc) Sep. 2022 - May 2022 
-- ![JPMC](https://img.shields.io/badge/-JPMC-000?style=for-the-badge&logo=chase&logoColor=117ACA) Jun. 2022 - Aug. 2022 
+- ![Amazon Robotics](https://img.shields.io/badge/-Amazon_Robotics-000?style=for-the-badge&logo=amazon&logoColor=F90) `Aug. 2023 - Dec. 2023` 
+- ![Microsoft](https://img.shields.io/badge/-Microsoft-000?style=for-the-badge&logo=microsoft&logoColor=5E5E5E) `May 2023 - Aug. 2023`
+- ![ATPCO](https://img.shields.io/badge/-ATPCO-48d1cc?style=for-the-badge&logoColor=48d1cc) `Sep. 2022 - May 2022` 
+- ![JPMC](https://img.shields.io/badge/-JPMC-000?style=for-the-badge&logo=chase&logoColor=117ACA) `Jun. 2022 - Aug. 2022` 
 
 ### Languages
 
